@@ -75,7 +75,7 @@
 
 ### ORMS
 
-- You can use [Gorm]()https://github.com/go-gorm/gorm as your ORM
+- You can use [Gorm](https://github.com/go-gorm/gorm) as your ORM
 
 ### NOSQL
 
